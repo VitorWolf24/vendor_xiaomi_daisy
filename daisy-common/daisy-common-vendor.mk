@@ -562,6 +562,8 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libloc_api_v02 \
     QtiTelephonyService \
+    QtiTelephonyServicelibrary \
+    qti-telephony-common \
     uceShimService \
     CNEService \
     com.qualcomm.location \
